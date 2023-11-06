@@ -1,0 +1,14 @@
+{
+  "flows": [
+    {
+      "topic": "sensors/test1",
+      "node_identifier": "testone",
+      "namespace_index": 1
+    },
+    {
+      "topic": "sensors/test2",
+      "node_identifier": "testtwo",
+      "namespace_index": 1
+    }
+  ]
+}

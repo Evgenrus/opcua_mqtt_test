@@ -16,7 +16,7 @@ const int retry = 10;
 
 using namespace elesy_mqtt_adapter;
 
-int main() {
+int main(int argc, char* argv[]) {
     std::string file = "config.json";
 
     try {

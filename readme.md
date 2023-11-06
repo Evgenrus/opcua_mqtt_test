@@ -57,6 +57,7 @@
 
 1. Добавить логгер
 2. MQTT and OPC-UA Authentification
+3. Рефакторинг
 
 ## Зависимости
 
