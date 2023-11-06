@@ -1,0 +1,9 @@
+{
+  "config" : {
+    "mqtt_host": "tcp://localhost:1883",
+    "client_id": "test_id",
+    "qos": 1,
+    "opc_host": "opc.tcp://localhost:4840/",
+    "flowfile": "flow.json"
+  }
+}
