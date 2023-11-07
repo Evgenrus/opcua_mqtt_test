@@ -7,13 +7,6 @@
 #include "data/ConfigReader.h"
 #include "open62541pp/open62541pp.h"
 
-const std::string SERVER_ADDRESS("tcp://localhost:1883");
-const std::string CLIENT_ID("test_id");
-const std::string TOPIC("test");
-
-const int QoS = 1;
-const int retry = 10;
-
 using namespace elesy_mqtt_adapter;
 
 int main(int argc, char* argv[]) {
